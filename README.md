@@ -10,8 +10,8 @@ Welcome to the wine quality prediction project! In this project, we aim to build
 2. [Pre-processing and Training](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/commit/f91a5721630c9d3663d24f267f583b4b280b1313)
 
 3. Machine Learning
-+ [Red Wine](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/commit/6381e96288b52143f9390b0eefba014694f6053b). 
-+ [White Wine](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Wine%20Capstone%20-%20White%20Wine%20ML%20Modeling.ipynb).
++   [Red Wine](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/commit/6381e96288b52143f9390b0eefba014694f6053b). 
++   [White Wine](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Wine%20Capstone%20-%20White%20Wine%20ML%20Modeling.ipynb).
 
 4. [Final Report](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/commit/a2221a6eb6a3475564f0bb0419a0cd2dd613f725)
 
